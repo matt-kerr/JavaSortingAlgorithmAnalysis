@@ -1,0 +1,6 @@
+Stat Header
+,bubble,selection,insert-shift,insert-cut,merge,quick
+500,
+1000,
+5000,
+10000,

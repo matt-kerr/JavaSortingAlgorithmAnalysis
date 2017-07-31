@@ -1,0 +1,40 @@
+COUNT
+ara[list size (500 etc)][sort type][count type]
+
+[list size]
+0 = 500
+1 = 1000
+2 = 5000
+3 = 10000
+
+[sort type]
+0 = bubble
+1 = selection
+2 = shift insertion
+3 = cut insertion
+
+[count type]
+0 = total_operations
+1 = data_assignments
+2 = data_comparisons
+3 = loop_assignments
+4 = loop_comparisons
+5 = other_operations
+
+=============================================
+TIME
+ara[list size (500 etc)][sort type]
+
+[list size]
+0 = 500
+1 = 1000
+2 = 5000
+3 = 10000
+
+[sort type]
+0 = bubble
+1 = selection
+2 = shift insertion
+3 = cut insertion
+4 = merge
+5 = quick
